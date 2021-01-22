@@ -2329,17 +2329,17 @@ body.tg-homefour .tg-wrapper{
 	padding: 0;
 	color: #fff;
 	background: none;
-	font-size: large;
+	font-size: initial;
 }
 .tg-headervtwo .tg-navigation > ul > li.current-menu-item > a,
 .tg-headervtwo .tg-navigation > ul > li:hover > a,
 .tg-headervtwo .tg-navigation > ul > li > a:hover,
 .tg-headervtwo .tg-btnsearch{background: none;
-font-size: large;
+font-size: initial;
 }
 .tg-headervtwo .tg-navigation > ul > li.menu-item-has-children > a,
 .tg-headervtwo .tg-navigation > ul > li.menu-item-has-mega-menu > a{padding: 0 14px 0 0;
-font-size: large;
+font-size: initial;
 }
 .tg-headervtwo li.menu-item-has-children > a:before,
 .tg-headervtwo li.menu-item-has-mega-menu > a:before{right: 0;}
@@ -2347,7 +2347,7 @@ font-size: large;
 	z-index: 1;
 	background: #000;
 	position: relative;
-	font-size: large;
+	font-size: initial;
 }
 .tg-homeslidervthree .item{background: #000;}
 .tg-homeslidervthree .item img{opacity: 0.50;}
